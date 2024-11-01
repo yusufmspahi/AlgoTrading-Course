@@ -9,29 +9,26 @@ The course covers the fundamentals of algorithmic trading, key industry strategi
 ### Course Syllabus
 
 **Lecture 1** - Introduction and Basics of Algorithmic Trading
-   - Overview of algorithmic trading concepts, definitions, and types of strategies.
-   - Key terms and the structure of the course.
+
 
 **Lecture 2** - Creating and Assessing Trading Algorithms
-   - Focus on building algorithms and evaluating them using backtesting.
+
 
 **Lecture 3** - Portfolio Optimization
-   - Techniques for optimizing asset allocations within portfolios.
+
 
 **Lecture 4** - Industry Lecture
-   - Insights into industry practices and specialized niches (to be confirmed).
 
 **Lecture 5** - Machine Learning in Algorithmic Trading
-   - Applying machine learning to enhance trading strategy development and decision-making.
+
 
 **Lecture 6** - Options in Algorithmic Trading
-   - Understanding options, their role in trading strategies, and related risk management.
+
 
 **Lecture 7** - Industry Lecture
-   - Another industry-focused session with insights from experts.
+
 
 **Lecture 8** - The Role of Market Impact
-   - Examining how trades impact the market and strategies for minimizing adverse effects.
 
 ## Teaching Methodology
 
