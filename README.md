@@ -1,2 +1,3 @@
-# AlgoTrading-Course
-Notebooks created during the Imperial AlgoSoc Algorithmic Trading Course.
+#### Imperial Algorithmic Trading Society
+# **Algorithmic Trading Course**
+This repository contains the lectures and notebooks created while studying for the AlgoCourse. 
